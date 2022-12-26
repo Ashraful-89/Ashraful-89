@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm Ashraful
-
+![Profile views](https://gpvc.arturio.dev/Ashraful-89)
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashraful-islam-12774024b/)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/Ashraful-89)
 [<img src='https://cdn-icons-png.flaticon.com/512/4494/4494531.png' alt='quora-bangla' height=40>](https://bn.quora.com/profile/Ashraful-Islam-771)
@@ -20,4 +20,3 @@
 <!--  Metrics Bar -->
 ![GitHub metrics](https://metrics.lecoq.io/Ashraful-89)
 <!--  Profile Views -->
-![Profile views](https://gpvc.arturio.dev/Ashraful-89)  
